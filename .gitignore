@@ -1,2 +1,3 @@
 #igonore env folder
 env
+.DS_Store
